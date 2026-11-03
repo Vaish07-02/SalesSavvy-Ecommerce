@@ -1,0 +1,19 @@
+# React frontend
+salessavvyfrontend/node_modules/
+salessavvyfrontend/dist/
+salessavvyfrontend/.env
+salessavvyfrontend/.env.*
+
+# Spring Boot backend
+SalesSavvyBackend/target/
+SalesSavvyBackend/.env
+SalesSavvyBackend/*.log
+
+# IDE and OS files
+.idea/
+.vscode/
+.DS_Store
+
+# Secrets
+*.pem
+*.key
